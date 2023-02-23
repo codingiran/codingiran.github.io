@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Turbo</title>
+        <item>
+            <title>1.8.0</title>
+            <pubDate>Thu, 23 Feb 2023 14:30:54 +0800</pubDate>
+            <sparkle:version>150</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="Turbo%20for%20Mac(NE)%201.8.0(150).dmg" length="48531910" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
