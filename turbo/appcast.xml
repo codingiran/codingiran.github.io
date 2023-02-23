@@ -8,7 +8,7 @@
             <sparkle:version>150</sparkle:version>
             <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="Turbo%20for%20Mac(NE)%201.8.0(150).dmg" length="48531910" type="application/octet-stream"/>
+            <enclosure url="https://codingiran.github.io/turbo/Turbo_1.8.0_150.dmg" length="48531910" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
