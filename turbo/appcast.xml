@@ -13,6 +13,7 @@
       <li> Bug fixes and improvements.</li>
       ]]> </description>
       <pubDate>Thu, 23 Feb 2023 15:54:04 +0800</pubDate>
+      <sparkle:criticalUpdate></sparkle:criticalUpdate>
       <sparkle:version>150</sparkle:version>
       <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
