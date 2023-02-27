@@ -13,10 +13,10 @@
       <li> Bug fixes and improvements.</li>
       ]]> </description>
       <pubDate>Thu, 23 Feb 2023 15:54:04 +0800</pubDate>
-      <sparkle:criticalUpdate sparkle:version="150"></sparkle:criticalUpdate>
       <sparkle:version>150</sparkle:version>
       <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+      <sparkle:criticalUpdate sparkle:version="150"></sparkle:criticalUpdate>
       <enclosure url="https://codingiran.github.io/turbo/Turbo_Mac_1.8.0_150.dmg" length="48533754" type="application/octet-stream" sparkle:edSignature="GlE+7AbMXmNQ8vwBWSfUi8VSHDZs7y0OXfs0iIZtT6OeDBpjDX1fsUdxuWrTmJ5hw00iwf3YVwtfPuzduDKTDg=="/>
     </item>
   </channel>
